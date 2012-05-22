@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotCallsAdmin.Domain", "HotCallsAdmin.Domain\HotCallsAdmin.Domain.csproj", "{900970BE-2E2A-4AC1-B303-1FCCDFCDD821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotCallsAdmin.WebUI", "HotCallsAdmin.UI\HotCallsAdmin.WebUI.csproj", "{34E72D89-2E26-4D95-8FEF-B63341712AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotCallsAdmin.UnitTests", "HotCallsAdmin.UnitTests\HotCallsAdmin.UnitTests.csproj", "{62B19A96-F7E6-4B46-8724-8345C3E5CD0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900970BE-2E2A-4AC1-B303-1FCCDFCDD821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900970BE-2E2A-4AC1-B303-1FCCDFCDD821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900970BE-2E2A-4AC1-B303-1FCCDFCDD821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900970BE-2E2A-4AC1-B303-1FCCDFCDD821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E72D89-2E26-4D95-8FEF-B63341712AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E72D89-2E26-4D95-8FEF-B63341712AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E72D89-2E26-4D95-8FEF-B63341712AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E72D89-2E26-4D95-8FEF-B63341712AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B19A96-F7E6-4B46-8724-8345C3E5CD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B19A96-F7E6-4B46-8724-8345C3E5CD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B19A96-F7E6-4B46-8724-8345C3E5CD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B19A96-F7E6-4B46-8724-8345C3E5CD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
